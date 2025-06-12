@@ -1,14 +1,15 @@
-
 {
-  "name": "Calzedonia Sign Up",
-  "short_name": "Calzedonia",
-  "start_url": ".",
+  "name": "Intimissimi Loyalty",
+  "short_name": "Intimissimi",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ffffff",
-  "icons": [{
-    "src": "icon.png",
-    "sizes": "192x192",
-    "type": "image/png"
-  }]
+  "description": "Quick access to Intimissimi sign-up",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
 }
